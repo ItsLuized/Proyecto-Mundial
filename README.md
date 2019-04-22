@@ -13,4 +13,4 @@ Tambien puede poner los resultados de cada partido y ver como se desarrolla el m
 
 Usamos [Git](https://git-scm.com/)
 
- ![alt text]()
+ ![alt text](https://github.com/ItsLuized/Proyecto-Mundial/blob/master/Simulador%20Mundial/2018_FIFA_World_Cup_logo.png)
