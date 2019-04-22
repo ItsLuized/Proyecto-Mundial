@@ -1,0 +1,6 @@
+partido1,2,0
+partido2,0,1
+partido3,3,1
+partido4,2,2
+partido5,1,2
+partido6,1,1
